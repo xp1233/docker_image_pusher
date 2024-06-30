@@ -1,1 +1,1 @@
-https://github.com/wangyan/nas-tools.git/nastools/nas-tools:2.9.1
+wangyan/nas-tools.git/nastools/nas-tools:2.9.1
