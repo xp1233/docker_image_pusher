@@ -1,1 +1,1 @@
-easychen/cookiecloud:latest
+jxxghp/moviepilot:latest
