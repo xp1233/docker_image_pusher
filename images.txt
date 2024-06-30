@@ -1,1 +1,2 @@
-nastool/nas-tools:latest
+xp1233/cookiecloud
+xp1233/moviepilot
