@@ -1,1 +1,1 @@
-jackett/jackett
+linuxserver/jackett
