@@ -1,2 +1,2 @@
 trendradar
-sansan0/TrendRadar:master
+sansan0/trendradar:master
