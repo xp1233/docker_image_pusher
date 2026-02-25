@@ -1,1 +1,1 @@
-docker_python3_selenium
+trendradar
