@@ -1,1 +1,1 @@
-xp1233/trendradar:master
+trendradar
