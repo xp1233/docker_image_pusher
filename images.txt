@@ -1,1 +1,1 @@
-ghcr.io/anomalyco/opencode:v1.2.24
+ghcr.io/anomalyco/opencode:latest
