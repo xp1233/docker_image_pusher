@@ -1,1 +1,1 @@
-ghcr.io/anomalyco/opencode:latest
+https://github.com/openclaw/openclaw:latest
