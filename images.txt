@@ -1,1 +1,1 @@
-ghcr.io/openclaw/openclaw:latest:latest
+ghcr.io/openclaw/openclaw:latest
