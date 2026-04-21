@@ -1,1 +1,2 @@
-ghcr.io/nousresearch/hermes-agent:latest
+https://github.com/NousResearch/hermes-agent#main
+
