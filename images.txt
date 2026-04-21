@@ -1,1 +1,1 @@
-ghcr.io/NousResearch/hermes-agent:main
+ghcr.io/nousresearch/hermes-agent:main
