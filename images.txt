@@ -1,1 +1,1 @@
-NousResearch/hermes-agent:main
+tailscale/tailscale:latest
